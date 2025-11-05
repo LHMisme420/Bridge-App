@@ -371,7 +371,7 @@ A **3-click bridge** that connects people to appropriate help:
 
 ## 🚀 Live Demo
 
-**🌐 Production URL:** https://YOUR_USERNAME.github.io/bridge-app
+**🌐 Production URL:** https://github.com/LHMisme420/Bridge-App/blob/main/README.md
 
 ## 📱 What It Does
 
