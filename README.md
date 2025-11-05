@@ -400,3 +400,19 @@ A **3-click bridge** that connects people to appropriate help:
 # 2. Go to Settings → Pages
 # 3. Select "main" branch, root folder
 # 4. Save - Your app is live in 2 minutes!
+{
+  "name": "Bridge to Healing",
+  "short_name": "BridgeApp",
+  "description": "Immediate crisis connection - 3 clicks to help",
+  "start_url": "/Bridge-App/",
+  "display": "standalone",
+  "background_color": "#764ba2",
+  "theme_color": "#764ba2",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9IiM3NjRiYTIiLz4KPHBhdGggZD0iTTk2IDQ4QzExMi44IDQ4IDEyOCA2My4yIDEyOCA4MFYxMTJDMTI4IDEyOC44IDExMi44IDE0NCA5NiAxNDRDNzkuMiAxNDQgNjQgMTI4LjggNjQgMTEyVjgwQzY0IDYzLjIgNzkuMiA0OCA5NiA0OFoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik04MCAxNjBIMTEyVjE3Nkg4MFYxNjBaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}# Prevents Jekyll processing on GitHub Pages
